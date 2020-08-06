@@ -2,7 +2,7 @@
 
 A collection of SQLs that I have used for projects.
   
-## pivot.sql
+## Pivot_query.sql
 
 **Scenario:** 
 This query was written for generating a report to gather insights on the number of students per semester(from 2009 to 2020) who have college level math and english credits. A small sample template is shown below. The original report had around 10,000 rows and the generation involved joining around 8 tables and materialized views.
